@@ -10,13 +10,13 @@ layout: "single"
 
 ---
 
-At SimpleLogin, we believe in a transparent and open source model. Most companies rely on security through obscrurity. Their code is a black box and you can't know how secure their service is.
+At SimpleLogin, we believe in a transparent and open source model. Most companies rely on security through obscurity. Their code is a black box and you can't know how secure their service is.
 
 As we deal with emails which contain sensitive data, people need to know how their data is handled. Our code is open source and anyone can read our code source. Being transparent allows any vulnerability to be quickly addressed and also allows us to receive multiple contributions from the community, ranging from fixing an error in the documentation to creating a full feature that everyone can benefit from.
 
-Though SimpleLogin code is written in an easy to understand way, not anyone can and have the time to go through all our code, and open source does not automatically mean more secure. For that reason, independent security audits of our software are important for ensuring security. 
+Though SimpleLogin code is written in an easy to understand way, not everyone can and have the time to go through all our code, and open source does not automatically mean more secure. For that reason, independent security audits of our software are important for ensuring security. 
 
-Recently, we ask [Securitum](https://research.securitum.com/), a leading European security auditing company to run a security audit on SimpleLogin apps. Securitum currently oversees more than 300 security testing projects every year, including for many top European banks. The security audit includes:
+Recently, we asked [Securitum](https://research.securitum.com/), a leading European security auditing company to run a security audit on SimpleLogin apps. Securitum currently oversees more than 300 security testing projects every year, including for many top European banks. The security audit includes:
 
 - our web app. Its code is available on https://github.com/simple-login/app. The browser extensions aren’t included as they are going through a major revamp.
 
